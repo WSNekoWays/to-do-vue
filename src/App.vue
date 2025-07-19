@@ -2,10 +2,8 @@
   <router-view />
 </template>
 
-<script setup>
-// Tidak perlu import HelloWorld lagi
-</script>
+<script setup></script>
 
 <style>
-/* Jika masih butuh style global, kamu bisa pindahkan dari HelloWorld.vue ke sini */
+/* Tambah style global di sini kalau butuh */
 </style>
